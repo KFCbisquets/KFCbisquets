@@ -7,7 +7,8 @@
 01:08 ──●───────── 04:23
 ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻ ♡
 
-![giphy](https://github.com/user-attachments/assets/1c0221f2-dd31-4c81-b096-8b5601b4c008)
+![giphy](https://github.com/user-attachments/assets/fdce6d91-4ce0-40df-bdc0-7613b828fac0)
+
 
 ## THE   K F C
 
@@ -23,7 +24,7 @@ Yes, I have an account on X
 </td>
 <td width="35%" align="center">
 
-<img src= "https://github.com/user-attachments/assets/178b7034-965f-4438-af88-40ff517f7277" width="350"/>
+<img src= "https://github.com/user-attachments/assets/af5620d9-a648-4586-91c7-ea11b483df58" width="350"/>
 
 </td>
 </tr>
@@ -35,5 +36,6 @@ Yes, I have an account on X
 - I'm not old, but for some reason, I live in the era of the 40s
 - It's no surprise, but I love KFC
 ---
-![giphy](https://github.com/user-attachments/assets/c7636602-9529-4af8-82e1-8a426a86b882)
+![200](https://github.com/user-attachments/assets/a1ea05a9-3f31-4ef5-b9b3-f6e86908a6d5)
+
 # That's all BYE!!
