@@ -52,9 +52,9 @@
 
 # That's all BYE!!  <img src="https://64.media.tumblr.com/a2e781d97fac40f1c02bc0bf5eadf04a/0a844093c4702aee-c1/s100x200/d02e796092fde4aa939e8ba7f83b2b7c8ec88aaf.gifv" width="99" height="56"> 
 
-<img align="right" width="300" height="200" src="https://i.postimg.cc/FKWNxZXC/IMG-3922.png"/>
-<img align="center" width="300" height="200" src="https://i.postimg.cc/tJnfWd96/IMG-3920.png"/>
-<img align="left" width="300" height="200" src="https://i.postimg.cc/4dSqY2RZ/IMG-3921.png"/>
+<img align="right" width="100" height="200" src="https://i.postimg.cc/FKWNxZXC/IMG-3922.png"/>
+<img align="center" width="100" height="200" src="https://i.postimg.cc/tJnfWd96/IMG-3920.png"/>
+<img align="left" width="100" height="200" src="https://i.postimg.cc/4dSqY2RZ/IMG-3921.png"/>
 
 <br>
 <br>
