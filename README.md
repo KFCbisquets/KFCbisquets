@@ -1,7 +1,10 @@
 <div align="center">
-⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆
+  <img src="https://64.media.tumblr.com/ba756e57d6e527b5365c0bb4bba62096/e450ce264d708279-b1/s1280x1920/5a95b9cacb8bf878d3d286520937eaf0aab86c98.pnj">
   
----
+  <img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56"> <img src="https://i.postimg.cc/SNBLGb9h/8wfjji.gif" width="99" height="56"><img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56">
+
+  
+
 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴:
 "Mac Miller - Funny Papers" 
 01:08 ──●───────── 04:23
@@ -9,41 +12,50 @@
 
 ![giphy](https://github.com/user-attachments/assets/fdce6d91-4ce0-40df-bdc0-7613b828fac0)
 
+<img src="https://files.catbox.moe/zvcrny.png">
 
-## THE   K F C
+ <img src="https://file.garden/Zl2CmebwmXKvGhRN/candyshoppe%20rentry/pixels/brown/321"> <img src="https://pixels.crd.co/assets/images/gallery10/e81276d4.gif?v=29416114">  
 
 </td>
 
-<div style="display:flex; align-items:center; gap:30px;">
-
+<img align="left" width="300" height="300" src="https://i.postimg.cc/ZqDtkpcm/pink.png"/>
 <table>
   <tr>
     <th>
+      <img align="right" width="90" height="300" src="https://i.postimg.cc/3wrYQKQX/borown.png"/>
       $\color{JungleGreen}{\textsf{Chica con ojos de ayer}}$ <br>
       $\color{JungleGreen}{\textsf{Sé que vibrás también}}$ <br>
       $\color{MediumAquamarine}{\textsf{La extraña sensación}}$ <br>
-      $\color{MediumAquamarine}{\textsf{De no pertenecer a este mundo}}$ <br>
-      <br>
-      <br>
-      $\color{JungleGreen}{\textsf{I speak English too,}}$ <br>
-      $\color{JungleGreen}{\textsf{but honestly my brain}}$ <br>
-      $\color{MediumAquamarine}{\textsf{sometimes can't}}$ <br>
-      $\color{MediumAquamarine}{\textsf{connect the words}}$ <br>
+      $\color{MediumAquamarine}{\textsf{De no pertenecer a este mundo}}$
 
-  <td>
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHl3OGc5dDZrczQ2Z3B3NHk5YjZhempsazlnd3AzcDRlcTlzYWxjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8oZbKwYHcMix9MoEmc/giphy.gif" width="220">
-</td>
-
+  <img align="left" width="90" height="500" src="https://i.postimg.cc/9Ms26QMG/IMG-3930.png"/>
 </th>
 </tr>
 </table>
 
-🍃 ─ 🍃 ─ 🍃 ─ 🍃
+<br>
+<br>
+<table>
+   <tr>
+    <th>
+      $\color{JungleGreen}{\textsf{I speak English too,}}$ <br>
+      $\color{JungleGreen}{\textsf{but honestly my brain sometimes can't}}$ <br>
+      $\color{MediumAquamarine}{\textsf{connect the words}}$ <img src="https://pixels.crd.co/assets/images/gallery60/a451996a.gif?v=29416114"> <br> 
+       <br>
+      $\color{MediumAquamarine}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
+      $\color{MediumAquamarine}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ 
+  </th>
+</tr>
+</table>
+ <img src="https://files.catbox.moe/kch9vw.png">
+<br>
 
-### Something About me
-$\color{silver}{\textsf{Nah, just kidding, I have nothing to put here}}$
+# That's all BYE!!  <img src="https://64.media.tumblr.com/a2e781d97fac40f1c02bc0bf5eadf04a/0a844093c4702aee-c1/s100x200/d02e796092fde4aa939e8ba7f83b2b7c8ec88aaf.gifv" width="99" height="56"> 
 
----
-![200](https://github.com/user-attachments/assets/a1ea05a9-3f31-4ef5-b9b3-f6e86908a6d5)
+<img align="right" width="300" height="200" src="https://i.postimg.cc/FKWNxZXC/IMG-3922.png"/>
+<img align="center" width="300" height="200" src="https://i.postimg.cc/tJnfWd96/IMG-3920.png"/>
+<img align="left" width="300" height="200" src="https://i.postimg.cc/4dSqY2RZ/IMG-3921.png"/>
 
-# That's all BYE!!
+<br>
+<br>
+<sup>credits to all the artists for the decorations :)</sup>
