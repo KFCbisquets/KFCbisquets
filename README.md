@@ -50,7 +50,9 @@
  <img src="https://files.catbox.moe/kch9vw.png">
 <br>
 
-# That's all BYE!!  <img src="https://64.media.tumblr.com/a2e781d97fac40f1c02bc0bf5eadf04a/0a844093c4702aee-c1/s100x200/d02e796092fde4aa939e8ba7f83b2b7c8ec88aaf.gifv" width="99" height="56"> 
+# That's all BYE!!  
+<br>
+<img src="https://64.media.tumblr.com/a2e781d97fac40f1c02bc0bf5eadf04a/0a844093c4702aee-c1/s100x200/d02e796092fde4aa939e8ba7f83b2b7c8ec88aaf.gifv" width="99" height="56"> 
 
 <br>
 <br>
