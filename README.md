@@ -10,8 +10,10 @@
 01:08 ──●───────── 04:23
 ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻ ♡
 
-![giphy](https://github.com/user-attachments/assets/fdce6d91-4ce0-40df-bdc0-7613b828fac0)
+<img align="center" width="800" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpuYzJxdGV0ZnJkc2hsdjZ0YnB0bnNnb3NuN3dxbzg1Zmd0N2QyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNwAreoszHH9zfYTza/giphy.gif"/>
 
+<br>
+<br>
 <img src="https://files.catbox.moe/zvcrny.png">
 
  <img src="https://file.garden/Zl2CmebwmXKvGhRN/candyshoppe%20rentry/pixels/brown/321"> <img src="https://pixels.crd.co/assets/images/gallery10/e81276d4.gif?v=29416114">  
