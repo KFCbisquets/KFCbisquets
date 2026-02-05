@@ -8,10 +8,6 @@
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6qiixyca3mgz4fp5o2ko555y4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
 <img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"><img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56">
 <img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56">
 <img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56">
@@ -23,22 +19,9 @@
 </td>
 
 <img align="left" width="300" height="400" src="https://64.media.tumblr.com/0cd963f14198b9434099c747cfd0dbe8/b00fb477e6629222-6a/s500x750/c33c472ed771bf9eba6e7faef07688e49584ebf4.pnj"/>
-<table>
-  <tr>
-    <th>
-      <img align="right" width="90" height="300" src="https://64.media.tumblr.com/a764d226187e3cb485a6e791a64db7fc/ed6cd9df11dee9a4-75/s250x400/b4c15e037fa62d8fc942181806d787735bf93754.pnj"/>
-      $\color{LightCyan}{\textsf{Chica con ojos de ayer}}$ <br>
-      $\color{LightCyan}{\textsf{Sé que vibrás también}}$ <br>
-      $\color{PowderBlue}{\textsf{La extraña sensación}}$ <br>
-      $\color{PowderBlue}{\textsf{De no pertenecer a este mundo}}$
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6qiixyca3mgz4fp5o2ko555y4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
       
-
-  <img align="left" width="90" height="500" src="https://64.media.tumblr.com/2d9d2763e601b4e2c854d44eec002ad9/ed6cd9df11dee9a4-0c/s250x400/5a71436b43f79cfef03e11973ec3b41bfb32df79.pnj"/>
-</th>
-</tr>
-</table>
-
-<br>
 <br>
 <table>
    <tr>
