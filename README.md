@@ -4,7 +4,7 @@
   
   <img src="Captura_de_pantalla_2026-02-04_192822-removebg-preview.png" align="center" width="900" height="300">
   
-  <img src="descarga_-_2026-02-04T193016.532-removebg-preview.png" width="150" height="300"><img src="https://64.media.tumblr.com/24b0cb89e2c917d2b93ad078a3fc1aa1/b04f5bab00b82903-ff/s250x400/89198411284bb9d84193d53a0a951440bc65488a.gifv" width="300" height="400"> <br>
+  <img src="descarga_-_2026-02-04T193016.532-removebg-preview.png" width="150" height="300"><img src="https://64.media.tumblr.com/24b0cb89e2c917d2b93ad078a3fc1aa1/b04f5bab00b82903-ff/s250x400/89198411284bb9d84193d53a0a951440bc65488a.gifv" width="300" height="300"> <br>
 
 <br>
 
