@@ -8,7 +8,7 @@
 01:08 ──●───────── 04:23
 ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻ ♡
 
-<img align="center" width="600" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzBuajcxMTlsaTV2dm4yd2N0MzB3YWF4NTMxNGI2bGl2c213ZG41OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/E18eeQVCpJQHu/giphy.gif"/>
+<img align="center" width="600" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRtYXF5Mm8xcGRqbWlnZXFhdnlsaWh5cWs1eGZwdTE3aG85N2pwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65Jurg6wRdo52/giphy.gif"/>
 
 <br>
 <br>
