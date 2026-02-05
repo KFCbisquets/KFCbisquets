@@ -19,9 +19,7 @@
 <img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="99" height="56"><img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="99" height="56">
 <img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="99" height="56"><img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="99" height="56">
 
-<br>
-
- <img src="https://file.garden/Zl2CmebwmXKvGhRN/candyshoppe%20rentry/pixels/brown/321"> <img src="https://pixels.crd.co/assets/images/gallery10/e81276d4.gif?v=29416114">  
+<br> 
 
 </td>
 
