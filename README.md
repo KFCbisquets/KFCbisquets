@@ -11,25 +11,26 @@
 01:08 ──●───────── 04:23
 ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻ ♡
 
-<img align="center" width="600" height="300" src="https://64.media.tumblr.com/f4e5da48311fd2a6ff3abe3b89eab2bb/3c795b79c249ad59-e1/s250x400/ac7c97e63eb74b67f7f3d256caf4380729e4c1f3.gifv"/>
+<img src="https://64.media.tumblr.com/f4e5da48311fd2a6ff3abe3b89eab2bb/3c795b79c249ad59-e1/s250x400/ac7c97e63eb74b67f7f3d256caf4380729e4c1f3.gifv" width="600" height="300"><br>
+
+<img align="center" width="600" height="300" src="https://64.media.tumblr.com/6382f99ffc7e140b0e1f4ca0ad03e461/e226e779dd67f321-56/s500x750/2225ca55390407f9f689be7d5140bddbbe8c6a93.pnj"/>
 
 <br>
 <br>
-<img src="https://64.media.tumblr.com/6382f99ffc7e140b0e1f4ca0ad03e461/e226e779dd67f321-56/s500x750/2225ca55390407f9f689be7d5140bddbbe8c6a93.pnj">
 
  <img src="https://file.garden/Zl2CmebwmXKvGhRN/candyshoppe%20rentry/pixels/brown/321"> <img src="https://pixels.crd.co/assets/images/gallery10/e81276d4.gif?v=29416114">  
 
 </td>
 
-<img align="left" width="300" height="400" src="descarga_-_2026-02-04T201846.414-removebg-preview.png"/>
+<img align="left" width="300" height="400" src="https://64.media.tumblr.com/0cd963f14198b9434099c747cfd0dbe8/b00fb477e6629222-6a/s500x750/c33c472ed771bf9eba6e7faef07688e49584ebf4.pnj"/>
 <table>
   <tr>
     <th>
       <img align="right" width="90" height="300" src="https://i.postimg.cc/3wrYQKQX/borown.png"/>
-      $\color{JungleGreen}{\textsf{Chica con ojos de ayer}}$ <br>
-      $\color{JungleGreen}{\textsf{Sé que vibrás también}}$ <br>
-      $\color{MediumAquamarine}{\textsf{La extraña sensación}}$ <br>
-      $\color{MediumAquamarine}{\textsf{De no pertenecer a este mundo}}$
+      $\color{LightCyan}{\textsf{Chica con ojos de ayer}}$ <br>
+      $\color{LightCyan}{\textsf{Sé que vibrás también}}$ <br>
+      $\color{PowderBlue}{\textsf{La extraña sensación}}$ <br>
+      $\color{PowderBlue}{\textsf{De no pertenecer a este mundo}}$
       
 
   <img align="left" width="90" height="500" src="https://i.postimg.cc/9Ms26QMG/IMG-3930.png"/>
@@ -42,12 +43,12 @@
 <table>
    <tr>
     <th>
-      $\color{JungleGreen}{\textsf{I speak English too,}}$ <br>
-      $\color{JungleGreen}{\textsf{but honestly my brain sometimes can't}}$ <br>
-      $\color{MediumAquamarine}{\textsf{connect the words}}$ <img src="https://pixels.crd.co/assets/images/gallery60/a451996a.gif?v=29416114"> <br> 
+      $\color{LightCyan}{\textsf{I speak English too,}}$ <br>
+      $\color{LightCyan}{\textsf{but honestly my brain sometimes can't}}$ <br>
+      $\color{PowderBlue}{\textsf{connect the words}}$ <img src="https://64.media.tumblr.com/616d20311a0130ac15e73e82fd39c1c6/6b45dc2fd9227281-28/s75x75_c1/72e9c234515ab80ff7ab216c31ad07daf70c91b5.gifv"> <br> 
        <br>
-      $\color{MediumAquamarine}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
-      $\color{MediumAquamarine}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ 
+      $\color{LightCyan}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
+      $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ 
   </th>
 </tr>
 </table>
@@ -55,12 +56,12 @@
 
 # That's all BYE!!  
 <br>
-<img src="https://64.media.tumblr.com/a2e781d97fac40f1c02bc0bf5eadf04a/0a844093c4702aee-c1/s100x200/d02e796092fde4aa939e8ba7f83b2b7c8ec88aaf.gifv" width="99" height="56"> 
+<img src="https://64.media.tumblr.com/2992003fe8aee73cb6d8481c689905bd/4650c263c2440927-3f/s100x200/bf23567abb8e89950094e7b36884bb4c7cce44bb.gifv" width="99" height="56"> 
 
 <br>
 <br>
 <sup>credits to all the artists for the decorations :)</sup>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+    
 </p>
