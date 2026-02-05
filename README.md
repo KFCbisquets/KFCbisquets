@@ -22,9 +22,9 @@
 <table>
    <tr>
     <th>
-      $\color{LightCyan}{\textsf{I speak English too,}}$ <br>
+      $\color{LightCyan}{\textsf{I speak Spanish and English,}}$ <br>
       $\color{LightCyan}{\textsf{but honestly my brain sometimes can't}}$ <br>
-      $\color{PowderBlue}{\textsf{connect the words}}$ <img src="https://64.media.tumblr.com/616d20311a0130ac15e73e82fd39c1c6/6b45dc2fd9227281-28/s75x75_c1/72e9c234515ab80ff7ab216c31ad07daf70c91b5.gifv"> <br> 
+      $\color{PowderBlue}{\textsf{connect the words in english.}}$ <img src="https://64.media.tumblr.com/616d20311a0130ac15e73e82fd39c1c6/6b45dc2fd9227281-28/s75x75_c1/72e9c234515ab80ff7ab216c31ad07daf70c91b5.gifv"> <br> 
        <br>
       $\color{LightCyan}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
       $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ 
