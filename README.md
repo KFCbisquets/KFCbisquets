@@ -8,13 +8,13 @@
 
 <br>
 
-<img src="https://64.media.tumblr.com/85231ba1647c3f93f8b626f00e405a32/d03b606f0912aab8-56/s500x750/85e97b24098ba871cb09d0bd8e05dccebcfa0d73.pnj" width= "1000"> 
+<img src="https://64.media.tumblr.com/e2eec43ae8ac3da71bd0b68285af4fd1/8274f7fd5fc28f52-18/s500x750/9e0f0bdd22199db14ecb1cd21e43c7d7bef66bc0.gifv" width= "1000"> 
 
 <br> <br> 
 
 </td>
 
-<img align="left" width="300" height="900" src="descarga_-_2026-02-05T004143.662-removebg-preview.png"/>
+<img align="left" width="300" height="900" src="https://64.media.tumblr.com/a95967017cd1ea0e63a18ec4e1cfe0bc/fc557a87b957fb53-c0/s250x400/d6914ac6c79f576159887512d6e13cf818f749e2.pnj"/>
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6qiixyca3mgz4fp5o2ko555y4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
       
