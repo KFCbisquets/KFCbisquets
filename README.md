@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/ba756e57d6e527b5365c0bb4bba62096/e450ce264d708279-b1/s1280x1920/5a95b9cacb8bf878d3d286520937eaf0aab86c98.pnj">
+  <img src="Captura_de_pantalla_2026-02-04_192822-removebg-preview.png" align="center" width="900" height="300">
   
-  <img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56"> <img src="https://i.postimg.cc/SNBLGb9h/8wfjji.gif" width="99" height="56"><img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56">
+  <img src="descarga_-_2026-02-04T193016.532-removebg-preview.png" width="100" height="300">  <img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56"> <img src="https://i.postimg.cc/SNBLGb9h/8wfjji.gif" width="99" height="56"><img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56">
 
 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴:
 "Mac Miller - Funny Papers" 
@@ -18,7 +18,7 @@
 
 </td>
 
-<img align="left" width="300" height="300" src="https://i.postimg.cc/ZqDtkpcm/pink.png"/>
+<img align="left" width="300" height="400" src="descarga_-_2026-02-04T192555.061-removebg-preview.png"/>
 <table>
   <tr>
     <th>
@@ -48,7 +48,6 @@
   </th>
 </tr>
 </table>
- <img src="https://files.catbox.moe/kch9vw.png">
 <br>
 
 # That's all BYE!!  
