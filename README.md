@@ -14,7 +14,7 @@
 
 </td>
 
-<img align="left" width="300" height="400" src="https://64.media.tumblr.com/0cd963f14198b9434099c747cfd0dbe8/b00fb477e6629222-6a/s500x750/c33c472ed771bf9eba6e7faef07688e49584ebf4.pnj"/>
+<img align="left" width="300" height="400" src="https://64.media.tumblr.com/494a02b39edb2084f3dca09a1adcc262/93ab60f15b270a60-68/s500x750/7c01272674a851d4c38aafdf74c2e785675c551c.gifv"/>
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6qiixyca3mgz4fp5o2ko555y4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
       
