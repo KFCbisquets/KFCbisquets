@@ -39,9 +39,7 @@
 # That's all BYE!!  
 
 <br>
-<img src="https://64.media.tumblr.com/9330e74c0e9539d29767ed57d55ae189/0f77eb4281c6b2ee-58/s100x200/91050aafda3cd676e2e428dd2763b71bcd43f6fd.gifv" width="99" height="77"> 
-
-<br>
+<img src="https://64.media.tumblr.com/2fc02f6775b5b0da501c886515b03fcd/79d8b316934d24c3-d4/s100x200/c55b479b5fd49ca8991478438b9d0b73c1ac8771.gifv" width="99" height="77"> 
 <br>
 <br>
 <sup>credits to all the artists for the decorations :)</sup>
