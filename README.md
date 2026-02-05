@@ -13,7 +13,15 @@
 
 <br>
 
-<img align="center" width="600" height="300" src="https://64.media.tumblr.com/6382f99ffc7e140b0e1f4ca0ad03e461/e226e779dd67f321-56/s500x750/2225ca55390407f9f689be7d5140bddbbe8c6a93.pnj"/>
+<img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56"><img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56">
+<img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56">
+<img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56">
+<img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56"><img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56">
+<img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56"><img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56"><img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56">
+<img src="https://64.media.tumblr.com/09cc8149a650137258762d60b330c05a/7bba08dae7e595f2-bf/s250x400/084747d2dca6b6ec7020cdf28aa5abf366cdada2.pnj" width="99" height="56">
+
+
+
 
 <br>
 <br>
@@ -49,9 +57,11 @@
        <br>
       $\color{LightCyan}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
       $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ 
+     
   </th>
 </tr>
 </table>
+<img src="Captura_de_pantalla_2026-02-04_225148-removebg-preview.png" align="right"   width="400" height="300">
 <br>
 <br>
 
@@ -60,6 +70,7 @@
 <br>
 <img src="https://64.media.tumblr.com/2992003fe8aee73cb6d8481c689905bd/4650c263c2440927-3f/s100x200/bf23567abb8e89950094e7b36884bb4c7cce44bb.gifv" width="99" height="56"> 
 
+<br>
 <br>
 <br>
 <sup>credits to all the artists for the decorations :)</sup>
