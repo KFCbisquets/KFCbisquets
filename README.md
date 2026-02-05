@@ -3,8 +3,6 @@
   
   <img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56"> <img src="https://i.postimg.cc/SNBLGb9h/8wfjji.gif" width="99" height="56"><img src="https://i.postimg.cc/dVgRgJy2/Tumblr-l-295525888254608.png" width="99" height="56">
 
-  
-
 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴:
 "Mac Miller - Funny Papers" 
 01:08 ──●───────── 04:23
@@ -29,6 +27,7 @@
       $\color{JungleGreen}{\textsf{Sé que vibrás también}}$ <br>
       $\color{MediumAquamarine}{\textsf{La extraña sensación}}$ <br>
       $\color{MediumAquamarine}{\textsf{De no pertenecer a este mundo}}$
+      
 
   <img align="left" width="90" height="500" src="https://i.postimg.cc/9Ms26QMG/IMG-3930.png"/>
 </th>
@@ -59,3 +58,7 @@
 <br>
 <br>
 <sup>credits to all the artists for the decorations :)</sup>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
