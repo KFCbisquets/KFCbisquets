@@ -8,18 +8,7 @@
 
 <br>
 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56">
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56">
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
-<img src="descarga_-_2026-02-04T232947.661-removebg-preview.png" width="56" height="56"> 
+<img src="https://64.media.tumblr.com/53d8bc69a67f220bb12a288b935512c3/4160be3cc2b84620-30/s500x750/2b1a2330c6609e5f7413483cc7a509fc03c107da.gifv" width= "1000"> 
 
 <br> <br> 
 
