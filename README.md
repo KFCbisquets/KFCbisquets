@@ -11,6 +11,8 @@
 01:08 ──●───────── 04:23
 ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻ ♡
 
+<br>
+
 <img align="center" width="600" height="300" src="https://64.media.tumblr.com/6382f99ffc7e140b0e1f4ca0ad03e461/e226e779dd67f321-56/s500x750/2225ca55390407f9f689be7d5140bddbbe8c6a93.pnj"/>
 
 <br>
@@ -51,8 +53,12 @@
 </tr>
 </table>
 <br>
+<br>
+<br>
+<img src="https://64.media.tumblr.com/d6556c2f6e1bf552d69a68ca4c69b542/8d284732b268f30e-02/s500x750/7563b548f8068faa93ae392b2ad4e2dd526a0d25.gifv"> 
 
 # That's all BYE!!  
+
 <br>
 <img src="https://64.media.tumblr.com/2992003fe8aee73cb6d8481c689905bd/4650c263c2440927-3f/s100x200/bf23567abb8e89950094e7b36884bb4c7cce44bb.gifv" width="99" height="56"> 
 
