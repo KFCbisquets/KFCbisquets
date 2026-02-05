@@ -18,7 +18,7 @@
 
 </td>
 
-<img align="left" width="300" height="400" src="descarga_-_2026-02-04T192555.061-removebg-preview.png"/>
+<img align="left" width="300" height="400" src="descarga_-_2026-02-04T201846.414-removebg-preview.png"/>
 <table>
   <tr>
     <th>
