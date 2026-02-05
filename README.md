@@ -4,7 +4,7 @@
   
   <img src="Captura_de_pantalla_2026-02-04_192822-removebg-preview.png" align="center" width="900" height="300">
   
-  <img src="descarga_-_2026-02-04T193016.532-removebg-preview.png" width="150" height="300"><img src="https://64.media.tumblr.com/8f17959ccbcdb26cccf1bd2263444221/b04f5bab00b82903-6d/s100x200/0817d3f263d7adc539399ca52878fb5cb7f491cc.gifv" width="99" height="56"> <img src="https://64.media.tumblr.com/fe2c2f3ca2c690ea71ff6b6cdc3f8cdd/79d8b316934d24c3-3c/s100x200/2a18a216e722c6b17bf2d53af653186f606bb3e9.gifv" width="99" height="56"><img src="https://64.media.tumblr.com/e39036ecf9b7a15baaf09d002cb8d122/3c7512c789785a26-87/s100x200/c54fbd42798e11e36fdeb3997f6178f2d557cd0d.gifv" width="99" height="56"> 
+  <img src="descarga_-_2026-02-04T193016.532-removebg-preview.png" width="150" height="300"><img src="https://64.media.tumblr.com/8f17959ccbcdb26cccf1bd2263444221/b04f5bab00b82903-6d/s100x200/0817d3f263d7adc539399ca52878fb5cb7f491cc.gifv" width="99" height="56"> <img src="https://64.media.tumblr.com/fe2c2f3ca2c690ea71ff6b6cdc3f8cdd/79d8b316934d24c3-3c/s100x200/2a18a216e722c6b17bf2d53af653186f606bb3e9.gifv" width="99" height="56"><img src="https://64.media.tumblr.com/e39036ecf9b7a15baaf09d002cb8d122/3c7512c789785a26-87/s100x200/c54fbd42798e11e36fdeb3997f6178f2d557cd0d.gifv" width="99" height="56"> <br>
 
 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴:
 "Mac Miller - Funny Papers" 
