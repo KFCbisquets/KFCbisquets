@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://64.media.tumblr.com/82cd57073a2ed7267e5e90e6c4b7d919/6eb90225a8f82bc2-5a/s500x750/8bdc15afab324ba916f3f8166dfc5621e5ce9a94.pnj" width= "1000"> <br>
 <img src="https://64.media.tumblr.com/e8412b6f59f30915aa0b53180eedb00d/68ac1049942f2da4-3e/s250x400/8b47755d6f31b8f7806f7914453fe0dff6f19db3.gifv" width="200" height="56"><br>
   
   <img src="Captura_de_pantalla_2026-02-04_192822-removebg-preview.png" align="center" width="900" height="300">
@@ -8,7 +9,7 @@
 
 <br>
 
-<img src="https://64.media.tumblr.com/53d8bc69a67f220bb12a288b935512c3/4160be3cc2b84620-30/s500x750/2b1a2330c6609e5f7413483cc7a509fc03c107da.gifv" width= "1000"> 
+<img src="https://64.media.tumblr.com/f4386b87fcedf5e48a2c3f31d571c63e/bf304f3cdd8ac217-5a/s500x750/bd152199b80209eed2f4d654367cc2b44a8dd59e.pnj" width= "1000"> 
 
 <br> <br> 
 
