@@ -26,14 +26,14 @@
 <table>
   <tr>
     <th>
-      <img align="right" width="90" height="300" src="https://i.postimg.cc/3wrYQKQX/borown.png"/>
+      <img align="right" width="90" height="300" src="https://64.media.tumblr.com/a764d226187e3cb485a6e791a64db7fc/ed6cd9df11dee9a4-75/s250x400/b4c15e037fa62d8fc942181806d787735bf93754.pnj"/>
       $\color{LightCyan}{\textsf{Chica con ojos de ayer}}$ <br>
       $\color{LightCyan}{\textsf{Sé que vibrás también}}$ <br>
       $\color{PowderBlue}{\textsf{La extraña sensación}}$ <br>
       $\color{PowderBlue}{\textsf{De no pertenecer a este mundo}}$
       
 
-  <img align="left" width="90" height="500" src="https://i.postimg.cc/9Ms26QMG/IMG-3930.png"/>
+  <img align="left" width="90" height="500" src="https://64.media.tumblr.com/2d9d2763e601b4e2c854d44eec002ad9/ed6cd9df11dee9a4-0c/s250x400/5a71436b43f79cfef03e11973ec3b41bfb32df79.pnj"/>
 </th>
 </tr>
 </table>
