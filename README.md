@@ -11,7 +11,7 @@
 
 <img align="left" width="200" height="1000" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/> 
 
-<img align="center" width="99" height="100" src="https://64.media.tumblr.com/08df4a56280a171b9bb10ebdd3c5f3c2/e1aed535dca23fc5-e6/s250x400/7029f41744f67b506fa9541610385aaf69f4ab06.pnj"/> 
+<img align="center" width="99" height="100" src="https://64.media.tumblr.com/bbd809098d08c008637e6457950c58b4/d2053116c06b3cb2-06/s250x400/41327ade1e59350d7a6602a6a3d4ed131f46f2fb.pnj"/> 
 
    <br>
       $\color{LightCyan}{\textsf{I speak Spanish and English,}}$ <br>
@@ -26,7 +26,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6qiixyca3mgz4fp5o2ko555y4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) <br>
 <br>
 
- <img align="center" width="99" height="100" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/> <img align="right" width="200" height="1000" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/> <br>
+ <img align="center" width="99" height="100" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/> <img align="right" width="200" height="900" src="https://64.media.tumblr.com/5fae2e528c3fa76a124e588fc084c455/95bb936825206caa-ac/s250x400/7ee2e0460be683caa3ab129d3ad34602d6a645c2.pnj"/> <br>
  <br>
    
 <img align="center" width="600" height="200" src="https://64.media.tumblr.com/98cde164330ab9d99b0c601dcd50f637/7aff46bca9eb42e9-11/s250x400/0a86c4376eb487986ecda9bd7c385542c445eca1.pnj"/>
