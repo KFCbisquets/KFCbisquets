@@ -5,7 +5,7 @@
 <table>
    <tr>
     <th>
-      <img align="center" width="1000" height="200" src="https://64.media.tumblr.com/6ecd4fced0db65aaaaef2fb0d41935ae/7aff46bca9eb42e9-5d/s250x400/67fed471b46814754b905050bd027108aaacf0f4.pnj"/> <br>
+      <img align="center" width="600" height="200" src="https://64.media.tumblr.com/6ecd4fced0db65aaaaef2fb0d41935ae/7aff46bca9eb42e9-5d/s250x400/67fed471b46814754b905050bd027108aaacf0f4.pnj"/> <br>
        <img align="center" width="99" height="100" src="https://64.media.tumblr.com/5c9256755ffa678efb3910c44d21dd75/e50ad3efb2da7bf4-36/s100x200/e8e263f7660927bfdb8842ea2dbb865a2b4ab567.pnj"/> <img align="center" width="99" height="100" src="https://64.media.tumblr.com/1938899b2465dfe93b2ece4fd0a56ff2/a617109fda1d0d51-56/s100x200/6f618a3aef8c4b724637c1b89c8c065b77482433.gifv"/> <img align="center" width="99" height="100" src="https://64.media.tumblr.com/2fc02f6775b5b0da501c886515b03fcd/79d8b316934d24c3-d4/s100x200/c55b479b5fd49ca8991478438b9d0b73c1ac8771.gifv"/> <br>
 
    <br>
@@ -24,7 +24,7 @@
  <img align="center" width="200" height="100" src="https://64.media.tumblr.com/dde4171626bbaa3907530c2cc1d9d7e3/f7929e00cf491cc5-c1/s250x400/8aad3acf68df3e3b625226d6815707449bdf3726.pnj"/> <br>
  <br>
    
-<img align="center" width="1000" height="200" src="https://64.media.tumblr.com/98cde164330ab9d99b0c601dcd50f637/7aff46bca9eb42e9-11/s250x400/0a86c4376eb487986ecda9bd7c385542c445eca1.pnj"/>
+<img align="center" width="600" height="200" src="https://64.media.tumblr.com/98cde164330ab9d99b0c601dcd50f637/7aff46bca9eb42e9-11/s250x400/0a86c4376eb487986ecda9bd7c385542c445eca1.pnj"/>
   </th>
 </tr>
 </table> <br> 
