@@ -11,7 +11,7 @@
 
 <img align="left" width="300" height="1000" src="https://64.media.tumblr.com/f13bb8a181b7489446a577d78334f3b5/e547ca6f715554dc-73/s250x400/ff11875ef9567040764dfc6d1098c5e147c86e0c.pnj"/> 
 
-<img align="center" width="99" height="100" src="https://64.media.tumblr.com/f595fa49b80e043e79384c458b8e8931/a8a364af7b798182-8f/s250x400/3c39612dc4730b2276eeb8153aaf4cd68b708719.pnj"/> 
+<img align="center" width="99" height="300" src="https://64.media.tumblr.com/f595fa49b80e043e79384c458b8e8931/a8a364af7b798182-8f/s250x400/3c39612dc4730b2276eeb8153aaf4cd68b708719.pnj"/> 
 
    <br>
       $\color{LightCyan}{\textsf{I speak Spanish and English,}}$ <br>
