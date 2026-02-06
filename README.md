@@ -11,14 +11,15 @@
 
 <img align="left" width="300" height="1000" src="https://64.media.tumblr.com/f13bb8a181b7489446a577d78334f3b5/e547ca6f715554dc-73/s250x400/ff11875ef9567040764dfc6d1098c5e147c86e0c.pnj"/> 
 
-<img align="center" width="99" height="300" src="https://64.media.tumblr.com/f595fa49b80e043e79384c458b8e8931/a8a364af7b798182-8f/s250x400/3c39612dc4730b2276eeb8153aaf4cd68b708719.pnj"/> 
+<img align="center" width="50" height="90" src="https://64.media.tumblr.com/5fae2e528c3fa76a124e588fc084c455/95bb936825206caa-ac/s250x400/7ee2e0460be683caa3ab129d3ad34602d6a645c2.pnj"/> 
 
    <br>
       $\color{LightCyan}{\textsf{I speak Spanish and English,}}$ <br>
       $\color{LightCyan}{\textsf{but honestly my brain sometimes can't}}$ <br>
       $\color{PowderBlue}{\textsf{connect the words in english.}}$ <img src="https://64.media.tumblr.com/616d20311a0130ac15e73e82fd39c1c6/6b45dc2fd922728128/s75x75_c1/72e9c234515ab80ff7ab216c31ad07daf70c91b5.gifv"> <br> 
        <br>
-       <img align="center" width="99" height="100" src="https://64.media.tumblr.com/9ceae4e3251c76cccae51b3a5ed6c965/a8a364af7b798182-ce/s250x400/f2b4f41e9c6b81d9c82e490191f6a30d1b71fb4c.pnj"/>
+       <img align="left" width="99" height="100" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/>
+       <img align="left" width="50" height="90" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/>
       $\color{LightCyan}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
       $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ <br>
       <br>
@@ -27,7 +28,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6qiixyca3mgz4fp5o2ko555y4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile) <br>
 <br>
 
- <img align="center" width="99" height="100" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/> <img align="right" width="200" height="900" src="https://64.media.tumblr.com/5fae2e528c3fa76a124e588fc084c455/95bb936825206caa-ac/s250x400/7ee2e0460be683caa3ab129d3ad34602d6a645c2.pnj"/> <br>
+ <img align="left" width="99" height="100" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/> <img align="right" width="200" height="900" src="https://64.media.tumblr.com/5fae2e528c3fa76a124e588fc084c455/95bb936825206caa-ac/s250x400/7ee2e0460be683caa3ab129d3ad34602d6a645c2.pnj"/>
+ <img align="center" width="50" height="90" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/><br>
  <br>
    
 <img align="center" width="600" height="200" src="https://64.media.tumblr.com/98cde164330ab9d99b0c601dcd50f637/7aff46bca9eb42e9-11/s250x400/0a86c4376eb487986ecda9bd7c385542c445eca1.pnj"/>
