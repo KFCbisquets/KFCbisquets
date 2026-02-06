@@ -16,12 +16,12 @@
    <br>
       $\color{LightCyan}{\textsf{I speak Spanish and English,}}$ <br>
       $\color{LightCyan}{\textsf{but honestly my brain sometimes can't}}$ <br>
-      $\color{PowderBlue}{\textsf{connect the words in english.}}$ <img src="https://64.media.tumblr.com/616d20311a0130ac15e73e82fd39c1c6/6b45dc2fd922728128/s75x75_c1/72e9c234515ab80ff7ab216c31ad07daf70c91b5.gifv"> <br> 
+      $\color{PowderBlue}{\textsf{connect the words in english.}}$ <img src="https://64.media.tumblr.com/c338e35d949fee6b154e3ac919bcef62/affb156094a9d5a4-75/s75x75_c1/df9d4983ea2765e2178cc2b19347527e5e2d6f43.gifv"> <br> 
        <br>
        <img align="left" width="99" height="100" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/>
        <img align="left" width="50" height="90" src="https://64.media.tumblr.com/8e94d4b899f148a0b80449421ddfbd64/95bb936825206caa-fa/s250x400/aae32bd8bb5edf70c556f9fb07b879bd4311c36e.pnj"/>
       $\color{LightCyan}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
-      $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ <br>
+      $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ <img src="https://64.media.tumblr.com/842e4c7fd686bb1cad67b903f3978a16/affb156094a9d5a4-de/s75x75_c1/c13c060b3b2b5a20e091c9a25cdb834040a0e0f1.gifv"><br>
       <br>
       <br>
 
