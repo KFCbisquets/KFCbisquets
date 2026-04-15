@@ -19,7 +19,7 @@
       $\color{LightCyan}{\textsf{but honestly my brain sometimes can't}}$ <br>
       $\color{PowderBlue}{\textsf{connect the words in english.}}$ <img src="https://64.media.tumblr.com/c338e35d949fee6b154e3ac919bcef62/affb156094a9d5a4-75/s75x75_c1/df9d4983ea2765e2178cc2b19347527e5e2d6f43.gifv"> <br> 
        <br>
-       <img align="center" src="https://64.media.tumblr.com/bbe84b793c3698d7427f6909a33e6321/d9d71957ffcf5bf2-71/s250x400/28ef80044c5d16e54c89f6906b6f3e34cb31ec13.jpg"/> 
+       <img align="center" width= "200"src="https://64.media.tumblr.com/bf93ebcbd84dade84d84ea8c4331f252/7e7aba9e7f9801eb-84/s250x400/9a10baf063552e4a07385bc0746621e690405306.pnj"/> 
        <br> <br><br>
       $\color{LightCyan}{\textsf{I really don't have much to put here apart from saying that}}$ <br>
       $\color{PowderBlue}{\textsf{I did all of this just for Pony Town and also that I talk more on Whisper}}$ <img src="https://64.media.tumblr.com/842e4c7fd686bb1cad67b903f3978a16/affb156094a9d5a4-de/s75x75_c1/c13c060b3b2b5a20e091c9a25cdb834040a0e0f1.gifv"><br>
@@ -36,7 +36,7 @@
  <img align="center"  width="30" hight="100" src="https://64.media.tumblr.com/931d1b48150f5dad7b58a1db1be45de8/c64e6eb1d16b318b-52/s75x75_c1/797971ac69c9e8c67ad6481516befe563531785c.gifv"/><br>
  <br>
  
-<img align="center" width= "1000" src="https://64.media.tumblr.com/b875c11b4ac0d374c5d1a94a65bd85e9/d09309e0a008b1a9-99/s500x750/a1ab04b41bd75a05029e1d9ef73f354228b685d0.pnj"/>
+<img align="center" width= "1000" src="https://64.media.tumblr.com/7fc2414f880e542bf325bb9375554756/e0b96c16704c5718-f9/s500x750/558724f8645e660070b910d967cf80963a2f107f.pnj"/>
   </th>
 </tr>
 </table>
